@@ -1,0 +1,13 @@
+.env file ko production ya github pe post nahi kartee hain
+isko gitignore mein add kiya jata hai
+
+but environment variables ki zaroorat humein bhi padegi to hum 
+.env.sample banate hain jahan variables ko empty karke likh dete hain
+isko hum ship karte hain
+
+in env var ka access kar jagah alag alag liya jata hai
+backend frontend react vite loda lassan har jagah
+
+vite aur create react app dono mein env variables kaise create 
+karne hain aur kaise import karne hai usme difference hota hai
+uske liye kripya documentation padhein
